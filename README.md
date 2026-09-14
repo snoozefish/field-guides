@@ -15,7 +15,7 @@ Two licenses apply, by kind of file:
 | Code — template HTML/CSS/JS, scripts, tooling | `src/`, and the scripts inside any guide | [Apache License 2.0](LICENSE) |
 | Documents, data, figures — guides, write-ups, tables | `guides/`, `studies/`, `data/` | [CC BY 4.0](LICENSE-CONTENT.md) |
 
-Preferred attribution for the content: **R. Wolfson, raisonne.ai**.
+Preferred attribution for the content: **editors, raisonne.ai**.
 
 
 
